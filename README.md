@@ -3,9 +3,7 @@
 # Hi, I'm Prasanna 👋
 
 ## 👨‍💻 About Me
-I am a passionate **Full Stack Developer** with over 2 years of experience in building dynamic, scalable, and user-friendly web applications. I specialize in both **front-end** and **back-end** development, working with technologies such as **React**, **Angular**, **Node.js**, and **Spring Boot**. I create responsive user interfaces using **Bootstrap** and **Tailwind CSS**, ensuring seamless user experiences.
-
-In addition to my development work, I actively contribute to the **open-source community**, including releasing **npm packages** that help improve development workflows. I believe in the power of collaboration and regularly contribute to projects that can help developers around the world.
+I am a passionate **Full Stack Developer** with over 2 years of experience in building dynamic, scalable, and user-friendly web applications. I specialize in both **front-end** and **back-end** development, working with technologies such as **React**, **Angular**, **Node.js**, and **Spring Boot**. I create responsive user interfaces using **Bootstrap** and **Tailwind CSS**, ensuring seamless user experiences. 
 
 ### 🌱 Currently, I'm focusing on:
 - Building robust, high-performance web applications with modern frameworks and libraries.
