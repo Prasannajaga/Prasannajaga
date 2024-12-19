@@ -1,5 +1,3 @@
- 
-
 # Hi, I'm Prasanna 👋
 
 ## 👨‍💻 About Me
@@ -11,11 +9,11 @@ I am a passionate **Full Stack Developer** with over 2 years of experience in bu
 - Expanding my knowledge in **cloud technologies** and **DevOps** practices.
 
 ### 🛠 Tech Stack
-- **Frontend**: React, Angular, HTML, CSS, JavaScript, Bootstrap, Tailwind CSS
-- **Backend**: Node.js, Express, Spring Boot, Python
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **DevOps**: Docker, Kubernetes, Terraform
-- **Others**: Git, CI/CD, Jenkins, AWS
+- **language**: HTML, CSS, JavaScript, Typescript, Java
+- **Frameworks**: React, Angular, Bootstrap, Tailwind, Node.js, Express, Spring Boot
+- **Databases**: PostgreSQL, MongoDB
+- **DevOps**: Docker, Kubernetes
+- **Others**: Git, CI/CD, AWS
 
 ### 💬 Let's Connect:
 - 📧 Email: prasannajaga9@gmail.com
