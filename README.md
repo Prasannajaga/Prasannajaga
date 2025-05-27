@@ -28,7 +28,10 @@ I'm a **Full Stack Developer** with over **3 years** of hands-on experience craf
 - 🔧 Building high-performance, full-stack applications with modern frameworks.
 - 📦 Maintaining useful NPM packages like [ng-forms-handler](https://www.npmjs.com/package/ng-forms-handler).
 - ☁️ Expanding my knowledge in **cloud architecture** and **DevOps practices**.
+- 🧠 Building cool stuff using MCP Server, LangChain, and Hugging Face models.
+- 📊 Training and fine-tuning AI models for real-world applications.
 - 👥 Collaborating on open-source and side projects that solve real problems.
+
 
 ---
 
