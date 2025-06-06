@@ -44,5 +44,5 @@ Backend:          Node.js, Express.js, Spring Boot, FastApi
 Desktop:          Tauri, Rust
 Databases:        PostgreSQL, Elastic Search, MongoDB
 DevOps/Cloud:     Docker, Kubernetes, AWS
-AI & Agents:      LangChain, OpenAI, Google GenAI, Vector DBs (Chroma, FAISS, Pinecone)          
+AI & Agents:      LangChain, OpenAI, Google GenAI, Vector DBs (Chroma, FAISS)          
 Tools & Workflow: Git, GitHub, CI/CD, VS Code
