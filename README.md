@@ -1,7 +1,5 @@
- 
-
 <h1 align="center">Hi 👋, I'm Prasanna</h1>
-<h3 align="center">Software Engineer | Cloud Enthusiast | Cyclist </h3>
+<h3 align="center">Software Engineer | Cyclist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasanna&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -11,27 +9,27 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Developer** with over **3 years** of hands-on experience crafting fast, scalable, and responsive web and desktop applications. Despite being a college dropout, I've built a strong technical foundation through relentless self-learning and real-world problem solving.
+I'm a **Software Engineer** with over **3 years** of experience building fast, scalable, and production-ready web and desktop applications.  
+Despite being a college dropout, I built my foundation through relentless self-learning, engineering discipline, and real-world problem solving.
 
-- 💻 I specialize in **Angular**, **React**, and **Next.js** for building sleek frontends.
-- 🦀 I explore desktop app development using **Tauri** and **Rust**.
-- ⚙️ On the backend, I architect robust APIs using **Express.js** and **Spring Boot**.
-- 🧠 I believe in solving real-world problems with clean, maintainable code.
-- 🌍 In this fast-moving AI-driven world, I’m always learning and adapting.
+- 💻 I build clean, efficient frontends using **Angular**, **React**, and **Next.js**.  
+- 🦀 I explore desktop applications with **Tauri** and **Rust**.  
+- ⚙️ I design robust backend systems with **Express.js**, **Spring Boot**, and **FastAPI**.  
+- 🧠 I enjoy taking ambiguous problems and engineering structured, maintainable solutions.  
+- ☁️ I’m actively leveling up in **cloud platforms** and **distributed architectures**.
 
-> **"If there's a challenge — I’ll figure it out. If there's a tech I don’t know — I’ll learn it. That’s the mindset I bring to every project."**
+> **"If there's a challenge, I’ll figure it out. If there's a tech I don’t know I’ll learn it."**
 
 ---
 
 ## 🚀 What I'm Focusing On
 
-- 🔧 Building high-performance, full-stack applications with modern frameworks.
-- 📦 Maintaining useful NPM packages like [ng-forms-handler](https://www.npmjs.com/package/ng-forms-handler).
-- ☁️ Expanding my knowledge in **cloud architecture** and **DevOps practices**.
-- 🧠 Building cool stuff using MCP Server, LangChain, and Hugging Face models.
-- 📊 Training and fine-tuning AI models for real-world applications.
-- 👥 Collaborating on open-source and side projects that solve real problems.
-
+- Building high-performance end-to-end applications using modern frameworks.
+- Maintaining useful NPM packages like **ng-forms-handler**.
+- Deepening my expertise in **AWS**, **GCP**, DevOps tooling, and cloud-native patterns.
+- Developing AI-driven applications using **LangChain**, **MCP servers**, and **Hugging Face** models.
+- Experimenting with vector stores, embeddings, and agentic architectures.
+- Contributing to open-source and impactful side projects.
 
 ---
 
@@ -39,10 +37,18 @@ I'm a **Full Stack Developer** with over **3 years** of hands-on experience craf
 
 ```yaml
 Languages:        HTML, CSS, JavaScript, TypeScript, Java, Python
+
 Frontend:         React, Angular, Next.js, Tailwind CSS, Bootstrap
-Backend:          Node.js, Express.js, Spring Boot, FastApi
+
+Backend:          Node.js, Express.js, Spring Boot, FastAPI
+
 Desktop:          Tauri, Rust
-Databases:        PostgreSQL, Elastic Search, MongoDB
-DevOps/Cloud:     Docker, Kubernetes, AWS
-AI & Agents:      LangChain, OpenAI, Google GenAI, Vector DBs (Chroma, FAISS)          
-Tools & Workflow: Git, GitHub, CI/CD, VS Code
+
+Databases:        PostgreSQL, ClickHouse, ElasticSearch, MongoDB
+
+DevOps/Cloud:     AWS, GCP
+
+AI & Agents:      LangChain, OpenAI, Google GenAI,
+                  Vector DBs (Chroma, FAISS)
+
+Tools & Workflow: Git, GitHub, CI/CD 
