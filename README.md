@@ -24,11 +24,9 @@ Despite being a college dropout, I built my foundation through relentless self-l
 
 ## 🚀 What I'm Focusing On
 
-- Building high-performance end-to-end applications using modern frameworks.
-- Maintaining useful NPM packages like **ng-forms-handler**.
+- Building high-performance end-to-end applications using modern frameworks. 
 - Deepening my expertise in **AWS**, **GCP**, DevOps tooling, and cloud-native patterns.
-- Developing AI-driven applications using **LangChain**, **MCP servers**, and **Hugging Face** models.
-- Experimenting with vector stores, embeddings, and agentic architectures.
+- Developing AI-driven applications using **LangChain**, **MCP servers**, and **Hugging Face** models. 
 - Contributing to open-source and impactful side projects.
 
 ---
