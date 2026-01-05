@@ -7,46 +7,48 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a **Software Engineer** with over **3 years** of experience building fast, scalable, and production-ready web and desktop applications.  
-Despite being a college dropout, I built my foundation through relentless self-learning, engineering discipline, and real-world problem solving.
+I’m a **Software Engineer** with **3+ years of hands-on experience** building fast, scalable, and production-ready web and desktop applications.
 
-- 💻 I build clean, efficient frontends using **Angular**, **React**, and **Next.js**.  
-- 🦀 I explore desktop applications with **Tauri** and **Rust**.  
-- ⚙️ I design robust backend systems with **Express.js**, **Spring Boot**, and **FastAPI**.  
-- 🧠 I enjoy taking ambiguous problems and engineering structured, maintainable solutions.  
-- ☁️ I’m actively leveling up in **cloud platforms** and **distributed architectures**.
+As software engineering moves beyond traditional application development, my career has been shaped by **self-directed learning**, **disciplined execution**, and a consistent ability to **adopt and apply emerging technologies quickly**.  
+Despite being a college dropout, I built my foundation through real-world problem solving, engineering rigor, and continuous learning.
 
-> **"If there's a challenge, I’ll figure it out. If there's a tech I don’t know I’ll learn it."**
+That same mindset is now driving me toward the **next frontier of computing** the era of **Artificial General Intelligence (AGI)** and, ultimately, **Artificial Superintelligence (ASI)**.
+
+I enjoy turning ambiguity into well-structured, maintainable systems and continuously pushing my technical boundaries.
+
+
 
 ---
 
-## 🚀 What I'm Focusing On
+##  What I'm Focusing On
 
-- Building high-performance end-to-end applications using modern frameworks. 
-- Deepening my expertise in **AWS**, **GCP**, DevOps tooling, and cloud-native patterns.
-- Developing AI-driven applications using **LangChain**, **MCP servers**, and **Hugging Face** models. 
-- Contributing to open-source and impactful side projects.
+- Building **high-performance, end-to-end applications** using modern frameworks and clean architecture
+- Deepening expertise in **AWS**, **GCP**, DevOps tooling, and **cloud-native & distributed systems**
+- Developing **AI-driven applications and agent-based systems**
+- Exploring the long-term implications of **AGI, autonomous agents, and intelligent systems**
+- Contributing to **open-source** and impactful side projects
 
 ---
 
 ## 🛠 Tech Stack
 
-```yaml
-Languages:        HTML, CSS, JavaScript, TypeScript, Java, Python
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap" />
+</p>
 
-Frontend:         React, Angular, Next.js, Tailwind CSS, Bootstrap
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,fastapi,rust,golang,tauri,pytorch,cuda" />
+</p>
 
-Backend:          Node.js, Express.js, Spring Boot, FastAPI
+### Tools & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,docker,aws,gcp,git,github,githubactions,linux,vscode" />
+</p>
 
-Desktop:          Tauri, Rust
+---   
 
-Databases:        PostgreSQL, ClickHouse, ElasticSearch, MongoDB
-
-DevOps/Cloud:     AWS, GCP
-
-AI & Agents:      LangChain, OpenAI, Google GenAI,
-                  Vector DBs (Chroma, FAISS)
-
-Tools & Workflow: Git, GitHub, CI/CD 
+> **"If there's a challenge, I’ll figure it out. If there's a tech I don’t know, I’ll learn it."**
