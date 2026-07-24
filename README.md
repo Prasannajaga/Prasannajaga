@@ -9,7 +9,7 @@ My love for programming started after I dropped out. now, Im doing
 self-research on LLMs, RL, and evals. after going through a couple of 
 exploration with LLMs, I found my sweet spot in inference infrastructure.
 
-`Give me your GPUs, and I’ll show you what I can do.`
+`Give me your GPUs. I promise they'll never be idle again.`
 
 ## Blogs 
 
