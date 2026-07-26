@@ -20,7 +20,5 @@ I write blogs, a lot of blogs, you can find a few that Im really proud of here:
 - [Behind Serverless Functions: Firecracker, KVM, and Linux](https://medium.com/@prasannajaga9/behind-serverless-functions-firecracker-kvm-and-linux-979aa1862c3f)
 - [Inside Composer 2: Cursor’s Coding Agent Breakdown](https://x.com/jaga_prasanna/status/2054872261166080226)
 
-> **"If there's a challenge, I’ll figure it out. If there's a tech I don’t know, Ill learn it."**
-
 ---   
 
